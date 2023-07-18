@@ -1,8 +1,8 @@
 <?php
 
-define("WEB_TITLE","Credit Monument PLC"); // Change Bank Name
-define("WEB_URL","https://creditmonument.online"); // Change No "/" Ending splash
-define("WEB_EMAIL","info@creditmonument.online"); // Change Your Website Email
+define("WEB_TITLE","Vault Plus Bank"); // Change Bank Name
+define("WEB_URL","https://vaultplus.online"); // Change No "/" Ending splash
+define("WEB_EMAIL","contact@vaultplus.online"); // Change Your Website Email
 
 $web_url = WEB_URL;
 
