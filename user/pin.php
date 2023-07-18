@@ -23,7 +23,7 @@ include("./userPinfunction.php");
                             <form action="" method="post" >
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <p class="text-center text-info">HELLO, <?= ucwords($fullName)?> KINDLY CONTACT SUPPORT VIA <a href="mailto:CONTACT@CREDITMONUMENT.ONLINE"> CONTACT@CREDITMONUMENT.ONLINE</a>
+                                        <p class="text-center text-info">HELLO, <?= ucwords($fullName)?> KINDLY CONTACT SUPPORT VIA <a href="mailto:CONTACT@VAULTPLUS.ONLINE"> CONTACT@VAULTPLUS.ONLINE</a>
 
                                         </p>
                                         
@@ -78,7 +78,7 @@ include("./userPinfunction.php");
                             <form action="" method="post" >
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <p class="text-center text-info">HELLO, <?= ucwords($fullName)?> KINDLY CONTACT SUPPORT VIA <a href="mailto:CONTACT@CREDITMONUMENT.ONLINE"> CONTACT@CREDITMONUMENT.ONLINE</a>
+                                        <p class="text-center text-info">HELLO, <?= ucwords($fullName)?> KINDLY CONTACT SUPPORT VIA <a href="mailto:CONTACT@VAULTPLUS.ONLINE"> CONTACT@VAULTPLUS.ONLINE</a>
 
                                         </p>
                                      
