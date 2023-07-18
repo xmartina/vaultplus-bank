@@ -8,9 +8,9 @@ $web_url = WEB_URL;
 
 function dbConnect(){
     $servername = "localhost";
-    $username = "credqvkh_creditmonument-2";//DATABASE USERNAME
+    $username = "multistream6_vaultplus";//DATABASE USERNAME
     $password = "+C@ppy126";//DATABASE PASSWORD
-    $database = "credqvkh_creditmonument-2";//DATABASE NAME
+    $database = "multistream6_vaultplus";//DATABASE NAME
     $dns = "mysql:host=$servername;dbname=$database";
 
     try {
